@@ -3,4 +3,4 @@
 
 
 [testLink](test.md)
-[testLink2](test2.md#)
+[testExternalLink](https://www.baidu.com)
