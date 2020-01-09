@@ -4,4 +4,4 @@
 Edit please link to [GitHub](https://github.com/BBong119/bbong119.github.io)
 
 [testLink](test.md)
-[testExternalLink](https://www.qq.com/)
+[testExternalLink](https://www.baidu.com/)
