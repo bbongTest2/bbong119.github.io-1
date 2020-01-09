@@ -1,3 +1,0 @@
-# Welcome
-
-[linkToReadme](README.md#)
