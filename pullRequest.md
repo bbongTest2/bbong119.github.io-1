@@ -14,6 +14,7 @@ Edit please visit: [Pull Request](https://github.com/BBong119/bbong119.github.io
 ***前提：代码储存在代码仓库RepoA，用于生成网页的源码的分支是RepoA的master分支*** 
 * User A在更改代码前，先从RepoA拷贝（一键fork）当前仓库到新的仓库RepoB，改完代码之后从RepoB-master分支向RepoA-master分支发起Pull Request请求。  
 * User A在更改代码前，直接在RepoA上新建一个分支Branch1，改完代码之后从从RepoA-Branch1分支向RepoA-master分支发起Pull Request请求。  
-第二种操作的话久了就会导致RepoA越来越大，或者要定期删除Branch（包含待处理的Pull Request的Branch无法删除）。所以比较推荐第一个方法。
+  
+**第二种操作的话久了就会导致RepoA越来越大，或者要定期删除Branch（包含待处理的Pull Request的Branch无法删除）。所以比较推荐第一个方法。**
 
 
