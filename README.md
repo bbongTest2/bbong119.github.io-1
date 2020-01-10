@@ -1,14 +1,14 @@
 # For Testing GitHub Pages
-  Original domain: https://bbong119.github.io/
-  Custom domain: www.bbong.xyz
-  Edit please visit: [GitHub Repository](https://github.com/BBong119/bbong119.github.io/edit/master/README.md)
+  Original domain: https://bbong119.github.io/ 
+  Custom domain: www.bbong.xyz 
+  Edit please visit: [GitHub Repository](https://github.com/BBong119/bbong119.github.io/edit/master/README.md) 
 
 
 # Custom Domain
-  Detailed information about custom domain please visit: [Custom Domain](customDomain.md)
+  Detailed information about custom domain please visit: [Custom Domain](customDomain.md) 
   
 # Pull Request
-  Detailed information about custom domain please visit: [Pull Request](pullRequest.md)
+  Detailed information about custom domain please visit: [Pull Request](pullRequest.md) 
   
   
   设置我的自定义域名解析到 bbong119.github.io
