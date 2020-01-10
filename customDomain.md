@@ -1,5 +1,5 @@
  Back to [home page](README.md)  
- Edit please visit: [Custom Damin](https://github.com/BBong119/bbong119.github.io/edit/master/customDomain.md)
+ Edit please visit: [Custom Domain](https://github.com/BBong119/bbong119.github.io/edit/master/customDomain.md)
  
   
   设置我的自定义域名解析到 bbong119.github.io  
