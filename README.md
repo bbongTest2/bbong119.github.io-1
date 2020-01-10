@@ -1,7 +1,7 @@
 # For Testing GitHub Pages
-  Original domain: https://bbong119.github.io/ 
-  Custom domain: www.bbong.xyz 
-  Edit please visit: [GitHub Repository](https://github.com/BBong119/bbong119.github.io/edit/master/README.md) 
+  Original domain: https://bbong119.github.io/  
+  Custom domain: www.bbong.xyz  
+  Edit please visit: [GitHub Repository](https://github.com/BBong119/bbong119.github.io/edit/master/README.md)  
 
 
 # Custom Domain
