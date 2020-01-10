@@ -9,6 +9,6 @@
   在GitHub Repository(仓库)中设置Custom Domain  
   ![image loading failed](settingCustomDomain.png)  
     
-          
+    
   访问时则可以自动跳转到设置的Custom Domain  
   ![gif loading failed](CustomDomain.gif)  
