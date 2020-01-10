@@ -41,4 +41,4 @@ Edit please visit: [Pull Request](https://github.com/BBong119/bbong119.github.io
 
 * Further Information:
     - 一个Pull Request将会对比两个分支所有有差异的文件，collaborator在merge的时候可以对每一处更改单独选择采用或弃用。
-    - collaborator即使做为Pull Request的发起者，依旧拥有直接Commit的权限。
+    - collaborator即使做为Pull Request的发起者，依旧拥有直接Merge和Commit的权限。
