@@ -2,6 +2,7 @@ Back to [home page](README.md)
 Edit please visit: [Pull Request](https://github.com/BBong119/bbong119.github.io/blob/master/pullRequest.md)  
 
 
+# Brief answer about two questions
 > 是否可以多个collaborator承担review和approve任务？  
   
 是的，所有Collaborator都有review和approve的权限，但是只要有一个人进行了merge/commit或者close操作，那这个pull request就算被处理了。所以这边建议是统一让一个用户来做Merge和Commit操作。  
@@ -18,3 +19,14 @@ Edit please visit: [Pull Request](https://github.com/BBong119/bbong119.github.io
 **第二种操作的话久了就会导致RepoA越来越大，或者要定期删除Branch（包含待处理的Pull Request的Branch无法删除）。所以比较推荐第一个方法。**
 
 
+# Additional information about pull request review  
+
+* Pull request权限：
+ - 仓库的所有collaborators以及Pull Request发起者都可以访问Pull Request（即可以作为Reviewer）。
+ - 仓库的所有collaborators都可以处理Pull Request（包括merge/commit或者close），即使TA是当前Pull Request的发起者。
+ 
+* Reviewer可以对Pull Request做些什么：  
+ - 对每一个文件甚至某一行更改给出意见： 
+![image loading failed](/pullRequestSrcPic/pullRequestReview.PNG)  
+ - 给出自己对当前Pull Request的Decision（包括Comment/Approve/Request address）  
+![image loading failed](/pullRequestSrcPic/finalDecision.PNG)  
