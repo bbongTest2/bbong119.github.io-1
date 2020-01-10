@@ -26,11 +26,11 @@ Edit please visit: [Pull Request](https://github.com/BBong119/bbong119.github.io
     - 仓库的所有collaborators都可以处理Pull Request（包括merge/commit或者close），即使TA是当前Pull Request的发起者。
  
 * Reviewer可以对Pull Request做些什么：
-    - 对每一个文件甚至某一行更改给出意见：
+    - 对每一个文件甚至某一行更改给出意见：  
 ![image loading failed](/pullRequestSrcPic/pullRequestReview.PNG)  
-    - 给出自己对当前Pull Request的Decision（包括Comment/Approve/Request address）
+    - 给出自己对当前Pull Request的Decision（包括Comment/Approve/Request address）：  
 ![image loading failed](/pullRequestSrcPic/finalDecision.PNG)  
-    - 看到所有Reviewers对当前Pull Request的Comments，并可以提出异议/要求重新Review（这里也可以是发起者做了修改提出重新Review请求）：
+    - 看到所有Reviewers对当前Pull Request的Comments，并可以提出异议/要求重新Review（这里也可以是发起者做了修改提出重新Review请求）：  
 ![image loading failed](/pullRequestSrcPic/reviewer.PNG)   
 
   
