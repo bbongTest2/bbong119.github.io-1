@@ -30,3 +30,15 @@ Edit please visit: [Pull Request](https://github.com/BBong119/bbong119.github.io
 ![image loading failed](/pullRequestSrcPic/pullRequestReview.PNG)  
     - 给出自己对当前Pull Request的Decision（包括Comment/Approve/Request address）
 ![image loading failed](/pullRequestSrcPic/finalDecision.PNG)  
+    - 看到所有Reviewers对当前Pull Request的Comments，并可以提出异议/要求重新Review（这里也可以是发起者做了修改提出重新Review请求）：
+![image loading failed](/pullRequestSrcPic/reviewer.PNG)   
+
+  
+* Pull request什么时候被处理：
+    - 只有进行了commit或者直接close操作这个Pull Request才会关闭。
+![image loading failed](/pullRequestSrcPic/closePullRequest.PNG)   
+
+
+* Further Information:
+    - 一个Pull Request将会对比两个分支所有有差异的文件，collaborator在merge的时候可以对每一处更改单独选择采用或弃用。
+    - collaborator即使做为Pull Request的发起者，依旧拥有直接Commit的权限。
