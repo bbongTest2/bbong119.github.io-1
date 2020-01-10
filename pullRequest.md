@@ -22,11 +22,11 @@ Edit please visit: [Pull Request](https://github.com/BBong119/bbong119.github.io
 # Additional information about pull request review  
 
 * Pull request权限：
-- 仓库的所有collaborators以及Pull Request发起者都可以访问Pull Request（即可以作为Reviewer）。
-- 仓库的所有collaborators都可以处理Pull Request（包括merge/commit或者close），即使TA是当前Pull Request的发起者。
+    - 仓库的所有collaborators以及Pull Request发起者都可以访问Pull Request（即可以作为Reviewer）。
+    - 仓库的所有collaborators都可以处理Pull Request（包括merge/commit或者close），即使TA是当前Pull Request的发起者。
  
 * Reviewer可以对Pull Request做些什么：
-- 对每一个文件甚至某一行更改给出意见：
+    - 对每一个文件甚至某一行更改给出意见：
 ![image loading failed](/pullRequestSrcPic/pullRequestReview.PNG)  
-- 给出自己对当前Pull Request的Decision（包括Comment/Approve/Request address）
+    - 给出自己对当前Pull Request的Decision（包括Comment/Approve/Request address）
 ![image loading failed](/pullRequestSrcPic/finalDecision.PNG)  
