@@ -8,5 +8,5 @@
   Detailed information about custom domain please visit: [Custom Domain](customDomain.md) 
   
 # Pull Request
-  Detailed information about custom domain please visit: [Pull Request](~testurl) 
+  Detailed information about custom domain please visit: [Pull Request](pullRequest.md) 
   
