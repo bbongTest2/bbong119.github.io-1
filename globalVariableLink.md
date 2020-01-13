@@ -14,7 +14,7 @@ GitHub Pages其实是利用Jekyll讲静态文本转换为网页的。关于Jekyl
 - 在md文件中使用html标签和配置文件中的变量名来链接    
 ![image loading failed](testLinkSrcPic/linkToUrl.PNG)  
 - 在生成的网页中则会把这个变量转换成对应的Url实现链接  
-![image loading failed](testLinkSrcPic/covertToUrl.PNG)  
+![image loading failed](testLinkSrcPic/convertToUrl.PNG)  
 
 
 Further Information：
