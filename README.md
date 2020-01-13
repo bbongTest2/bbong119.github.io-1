@@ -11,5 +11,5 @@
   Detailed information about custom domain please visit: [Pull Request](pullRequest.md)  
     
 # Link Url
-  Detailed information about using global Url please visit: [Link Url](globalVariablesUrl.md)
+  Detailed information about using global Url please visit: [Link Url](globalVariableLink.md)
   
