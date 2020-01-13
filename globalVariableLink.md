@@ -8,7 +8,7 @@ Edit please visit: [Global Link](https://github.com/BBong119/bbong119.github.io/
 GitHub Pages其实是利用Jekyll讲静态文本转换为网页的。关于Jekyll的具体功能要了解的话可能还要仔细看一下。  
 这边实现方便的链接是利用Jekyll的一个全局配置文件_config.yml来实现的。  
 
-具体步骤如下：
+具体步骤如下([Test Link](test.md))：
 - 定义Url变量在_config.yml中  
 ![image loading failed](addGlobalVariables.PNG)  
 - 在md文件中使用html标签和配置文件中的变量名来链接    
