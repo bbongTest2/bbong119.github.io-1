@@ -8,10 +8,8 @@
   Detailed information about custom domain please visit: [Custom Domain](customDomain.md) 
   
 # Pull Request
-  Detailed information about custom domain please visit: <a href="{{ site.testurl1 }}">Pull Request</a>    
-  
-  
-  test html: <a href="{{ site.testurl2 }}">Custom Domain</a>   
-  test change 111
-
+  Detailed information about custom domain please visit: [Pull Request](pullRequest.md)  
+    
+# Link Url
+  Detailed information about using global Url please visit: [Link Url](globalVariablesUrl.md)
   
