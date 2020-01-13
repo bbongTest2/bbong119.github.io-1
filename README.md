@@ -5,7 +5,7 @@
 
 
 # Custom Domain
-  Detailed information about custom domain please visit: [Custom Domain](https://www.baidu.com) 
+  Detailed information about custom domain please visit: [Custom Domain](customDomain.md) 
   
 # Pull Request
   Detailed information about custom domain please visit: '<a href="{{ site.testurl }}"Pull Request</a>'   
