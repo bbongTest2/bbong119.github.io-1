@@ -2,5 +2,4 @@
 
 theme: jekyll-theme-midnight
 
-global:
-"testurl" = "pullRequest.md"
+testurl: pullRequest.md
