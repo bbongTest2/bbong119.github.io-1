@@ -8,10 +8,10 @@
   Detailed information about custom domain please visit: [Custom Domain](customDomain.md) 
   
 # Pull Request
-  Detailed information about custom domain please visit: <a href="{{ site.globalUral.testurl1 }}">Pull Request</a>  
+  Detailed information about custom domain please visit: <a href="{{ site.testurl1 }}">Pull Request</a>    
   
   
-  test html: <a href="{{ site.globalUral.testurl2 }}">Custom Domain</a> 
+  test html: <a href="{{ site.testurl2 }}">Custom Domain</a>   
   test change 111
 
   
