@@ -8,5 +8,5 @@
   Detailed information about custom domain please visit: [Custom Domain](https://www.baidu.com) 
   
 # Pull Request
-  Detailed information about custom domain please visit: [Pull Request](testurl) 
+  Detailed information about custom domain please visit: [Pull Request](site.testurl) 
   
