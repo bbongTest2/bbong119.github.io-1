@@ -8,7 +8,6 @@
   Detailed information about custom domain please visit: [Custom Domain](customDomain.md) 
   
 # Pull Request
-  Detailed information about custom domain please visit: '<a href="{{ site.testurl }}"Pull Request</a>'   
- 
+  Detailed information about custom domain please visit: '<a href="{{ site.testurl }}"Pull Request</a>'  
   
 test change 333
