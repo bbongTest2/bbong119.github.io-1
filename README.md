@@ -5,7 +5,7 @@
 
 
 # Custom Domain
-  Detailed information about custom domain please visit: [Custom Domain](www.baidu.com) 
+  Detailed information about custom domain please visit: [Custom Domain](https://www.baidu.com) 
   
 # Pull Request
   Detailed information about custom domain please visit: [Pull Request](testurl) 
