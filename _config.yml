@@ -4,6 +4,6 @@ theme: jekyll-theme-midnight
 
 
 
-globalUral:
+globalUrl:
 -testurl1: pullRequest.html
 -testurl2: customDomain.html
