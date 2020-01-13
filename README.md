@@ -10,8 +10,3 @@
 # Pull Request
   Detailed information about custom domain please visit: <a href="{{ site.testurl }}">Pull Request</a>  
   
-  test html: '<a href="{{ site.testurl }}">Pull Request</a>'    
-  
-  test html2: &lt;a href="{{ site.testurl }}"&gt;Pull Request&lt;/a&gt;
-  
-test change 555
