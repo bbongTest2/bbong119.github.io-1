@@ -1,5 +1,5 @@
 ---
-layout: testLayout
+layout: default
 ---
 
 
