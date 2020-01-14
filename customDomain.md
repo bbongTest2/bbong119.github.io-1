@@ -3,7 +3,7 @@
  
   
   设置我的自定义域名解析到 bbong119.github.io  
-  ![image loading failed](settingDNS.PNG)  
+  <img src="settingDNS.PNG"  alt="Setting DNS" />
     
     
   在GitHub Repository(仓库)中设置Custom Domain  
