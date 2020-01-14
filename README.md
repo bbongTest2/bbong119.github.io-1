@@ -4,7 +4,7 @@
   Edit please visit: [GitHub Repository](https://github.com/BBong119/bbong119.github.io/blob/master/README.md)  
 
 
-# Custom Domain{#customDomain}
+# Custom Domain
   Detailed information about custom domain please visit: [Custom Domain](customDomain.md) 
   
 # Pull Request
