@@ -1,6 +1,5 @@
 ---
 layout: testLayout
-title: Home Page
 ---
 
 
